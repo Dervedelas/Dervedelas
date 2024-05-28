@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-estou eatudando alura
+estou estudando alura
